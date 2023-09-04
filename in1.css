@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding:10;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+body{
+ background-color: plum;
+}
+header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding:20px 10% ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color:rgb(202, 83, 202);
+  z-index: 100;
+}

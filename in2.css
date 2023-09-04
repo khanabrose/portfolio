@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+body{
+  background:linear-gradient(454deg,#7b27e9de,#2eb6ec,#2eb6ec);
+
+  color: #ffffff;
+}
+header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding:20px 10% ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  z-index: 100;
+}
